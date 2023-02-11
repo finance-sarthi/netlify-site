@@ -6,54 +6,53 @@ description: "This is meta description"
 draft: false
 
 basic:
-  name : "Basic Plan"
-  price: "$49"
+  name : "Personal"
   price_per : "month"
   info : "Best For Small Individuals"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Tax Filing"
+  - "Tax Planning"
+  - "Tax Refunds"
+  - "Tax Advisory Services"
+  - "Tax Deducted at Source Services"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Inquiry"
+    link : "/contact"
     
 professional:
-  name : "Tax and GST Filing"
-  price: "$49"
+  name : "Business"
   price_per : "month"
-  info : "Best For Professionals"
+  info : "Business Services"
   services:
-  - "Income Tax Filing"
-  - "Gst Registration & Return Filing"
-  - "TDS filing"
-  - "Udhyog Aadhaar Registration"
-  - "Best Dashboard"
+  - "GST Registration"
+  - "GST Returns Filing"
+  - "GST Payment"
+  - "GST Refunds"
+  - "GST Audit"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Inquiry"
+    link : "/contact"
     
 business:
-  name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  name : "Other Services"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Life & Health Insurance"
+  - "Retirement Planning"
+  - "Wealth Management"
+  - "Mutual Funds"
+  - "Accounts Finalizations"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Inquiry"
+    link : "/contact"
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Need a customized finance service?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Maximize Your Financial Potential with Our Personalized Finance Solutions."
   button:
     enable : true
     label : "Contact Us"

@@ -12,4 +12,4 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 googleAnalytics = "" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = true 
