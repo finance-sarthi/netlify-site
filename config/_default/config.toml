@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
-title = "Bigspring Light"
+baseURL = "https://www.financesarthi.com/"
+title = "Finance Sarthi"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"

@@ -1,5 +1,5 @@
 ---
-title: "Pricing"
+title: "Services"
 subtitle: ""
 # meta description
 description: "This is meta description"
@@ -20,15 +20,15 @@ basic:
     link : "#"
     
 professional:
-  name : "Professional Plan"
+  name : "Tax and GST Filing"
   price: "$49"
   price_per : "month"
   info : "Best For Professionals"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
+  - "Income Tax Filing"
+  - "Gst Registration & Return Filing"
+  - "TDS filing"
+  - "Udhyog Aadhaar Registration"
   - "Best Dashboard"
   button:
     enable : true
