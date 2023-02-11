@@ -53,9 +53,9 @@ service:
     # service item loop
     - title : "Achieve Your Financial Goals with Our Tailored Individual Finance Solutions in India."
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
+      - "images/personal_finance_1.jpg"
+      - "images/personal_finance_2.jpg"
+      - "images/personal_finance_3.jpg"
       content : "At Finance Sarthi, we believe that every individual has unique financial goals and aspirations. That's why we offer a range of tailored individual finance solutions to help you achieve the financial future you want. </br> Our expert team of financial advisors will work with you to understand your financial situation and provide personalized advice and solutions to help you reach your financial goals. Whether you're looking to save for a down payment on a home, invest for retirement, or manage debt, we have the expertise and tools to help. </br> With our tailored individual finance solutions, you can take control of your finances and build the future you want. From investment planning and wealth management to insurance and loan services, we have everything you need to reach your financial goals.</br> So why wait? Start achieving your financial goals today with Finance Sarthi's tailored individual finance solutions in India."
       button:
         enable : false
